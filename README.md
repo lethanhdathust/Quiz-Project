@@ -1,6 +1,5 @@
 # first_app
-
-A new Flutter project.
+A funny Quiz project use Flutter
 
 ## Getting Started
 
